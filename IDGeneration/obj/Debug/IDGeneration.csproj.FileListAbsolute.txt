@@ -1,0 +1,7 @@
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\bin\Debug\IDGeneration.exe.config
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\bin\Debug\IDGeneration.exe
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\bin\Debug\IDGeneration.pdb
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\obj\Debug\IDGeneration.csprojAssemblyReference.cache
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\obj\Debug\IDGeneration.csproj.CoreCompileInputs.cache
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\obj\Debug\IDGeneration.exe
+C:\Learning_Microsoft_2019\IDGeneration\IDGeneration\obj\Debug\IDGeneration.pdb
